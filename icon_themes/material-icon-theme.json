@@ -1,19 +1,16 @@
 {
 	"$schema": "https://zed.dev/schema/icon_themes/v0.1.0.json",
-	"name": "Material Icon Theme",
-	"author": "Zed Industries",
+	"name": "Simple Icons Theme",
+	"author": "DvAndresGT",
 	"themes": [
 		{
-			"name": "Material Icon Theme",
+			"name": "Simple Icons Theme",
 			"appearance": "dark",
 			"directory_icons": {
-				"collapsed": "./icons/folder-base.svg",
-				"expanded": "./icons/folder-base-open.svg"
-			},
-			"src_icons": {
 				"collapsed": "./icons/folder-src.svg",
 				"expanded": "./icons/folder-src-open.svg"
 			},
+
 			"file_icons": {
 				"astro": { "path": "./icons/astro.svg" },
 				"audio": { "path": "./icons/audio.svg" },
@@ -65,7 +62,7 @@
 				"storage": { "path": "./icons/database.svg" },
 				"swift": { "path": "./icons/swift.svg" },
 				"tcl": { "path": "./icons/tcl.svg" },
-				"template": { "path": "./icons/template.svg" },
+				"template": { "path": "./icons/html.svg" },
 				"terminal": { "path": "./icons/console.svg" },
 				"terraform": { "path": "./icons/terraform.svg" },
 				"toml": { "path": "./icons/toml.svg" },
@@ -73,7 +70,8 @@
 				"vcs": { "path": "./icons/git.svg" },
 				"video": { "path": "./icons/video.svg" },
 				"vue": { "path": "./icons/vue.svg" },
-				"zig": { "path": "./icons/zig.svg" }
+				"zig": { "path": "./icons/zig.svg" },
+				"node":{ "path": "./icons/netlify.svg"}
 			}
 		}
 	]
