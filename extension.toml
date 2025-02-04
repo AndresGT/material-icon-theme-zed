@@ -3,5 +3,5 @@ name = "Simple Icons Theme"
 version = "0.1.0"
 schema_version = 1
 authors = ["DvAndresGT <diegogiraldo506@gmail.com>"]
-description = "Default Simple  zed icons ."
+description = "Default Icons Theme."
 repository = "https://github.com/AndresGT/material-icon-theme-zed"
